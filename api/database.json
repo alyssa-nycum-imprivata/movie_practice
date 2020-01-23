@@ -1,0 +1,19 @@
+{
+    "movies": [
+        {
+            "id": 1,
+            "title": "The Avengers",
+            "releaseDate": 2012
+        },
+        {
+            "id": 2,
+            "title": "Avengers: Age of Ultron",
+            "releaseDate": 2015
+        },
+        {
+            "id": 3,
+            "title": "Avengers: Infinity War",
+            "releaseDate": 2018
+        }
+    ]
+}
